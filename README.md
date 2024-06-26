@@ -16,7 +16,7 @@ Tasky is a task management application built with Django,  TailwindCSS and Jquer
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/Rald01/Tasky-.git
-    cd Tasky-
+    cd Tasky-/benmore-tasky-main
     ```
 
 2. ** activate virtual environment**:
